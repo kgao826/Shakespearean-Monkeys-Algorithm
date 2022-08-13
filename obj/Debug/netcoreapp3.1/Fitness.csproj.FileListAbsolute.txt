@@ -1,0 +1,40 @@
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Fitness.exe
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Fitness.deps.json
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Fitness.runtimeconfig.json
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Fitness.runtimeconfig.dev.json
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Fitness.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Fitness.pdb
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Carter.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Fitness.AssemblyInfoInputs.cache
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Fitness.AssemblyInfo.cs
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Fitness.csproj.CoreCompileInputs.cache
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Fitness.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Fitness.pdb
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Fitness.genruntimeconfig.cache
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Fitness.csproj.AssemblyReference.cache
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Fitness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Fitness.csproj.CopyComplete
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Fitness.exe
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Fitness.deps.json
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Fitness.runtimeconfig.json
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Fitness.runtimeconfig.dev.json
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Fitness.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Fitness.pdb
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Carter.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Fitness.csproj.AssemblyReference.cache
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Fitness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Fitness.AssemblyInfoInputs.cache
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Fitness.AssemblyInfo.cs
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Fitness.csproj.CoreCompileInputs.cache
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Fitness.csproj.CopyComplete
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Fitness.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Fitness.pdb
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Fitness.genruntimeconfig.cache

@@ -1,0 +1,2 @@
+{"id":8101, "parallel":false, "target": "This is the beginning of a long friendship"}
+{"id":8101, "parallel": false, "monkeys": 2000, "length": 42, "crossover": 80, "mutation": 2 }

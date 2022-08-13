@@ -1,0 +1,2 @@
+{"id":8101, "parallel":false, "target": "The answer, my friend, is blowing in the wind."}
+{"id":8101, "parallel": false, "monkeys": 2000, "length": 46, "crossover": 80, "mutation": 2 }

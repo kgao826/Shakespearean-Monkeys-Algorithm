@@ -1,0 +1,2 @@
+{"id":8101, "parallel":false, "target": "abcd"}
+{"id":8101, "parallel": false, "monkeys": 200, "length": 4, "crossover": 90, "mutation": 2, "limit": 100 }

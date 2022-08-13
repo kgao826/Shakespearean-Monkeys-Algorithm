@@ -1,0 +1,44 @@
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Monkeys.AssemblyInfoInputs.cache
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Monkeys.AssemblyInfo.cs
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Monkeys.csproj.CoreCompileInputs.cache
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Monkeys.exe
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Monkeys.deps.json
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Monkeys.runtimeconfig.json
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Monkeys.runtimeconfig.dev.json
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Monkeys.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Monkeys.pdb
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Carter.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Monkeys.dll
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Monkeys.pdb
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Monkeys.genruntimeconfig.cache
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Monkeys.csproj.AssemblyReference.cache
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Monkeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaok1\OneDrive\University\2020 S2\CS 335\A8\A23-Monkeys-skeleton\obj\Debug\netcoreapp3.1\Monkeys.csproj.CopyComplete
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Monkeys.exe
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Monkeys.deps.json
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Monkeys.runtimeconfig.json
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Monkeys.runtimeconfig.dev.json
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Monkeys.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Monkeys.pdb
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Carter.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Monkeys.csproj.AssemblyReference.cache
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Monkeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Monkeys.AssemblyInfoInputs.cache
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Monkeys.AssemblyInfo.cs
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Monkeys.csproj.CoreCompileInputs.cache
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Monkeys.csproj.CopyComplete
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Monkeys.dll
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Monkeys.pdb
+C:\Users\Gaok1\Documents\GitHub\ShakespeareanMonkeysAlgorithm\obj\Debug\netcoreapp3.1\Monkeys.genruntimeconfig.cache
